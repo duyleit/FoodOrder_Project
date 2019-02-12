@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FoodOrder", "FoodOrder\FoodOrder.vbproj", "{3CE048FC-DC9F-4F76-A864-063C6B649348}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupFoodOrder", "SetupFoodOrder\SetupFoodOrder.vdproj", "{A6738AAD-F81D-4D29-AD6A-D966219D2671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CE048FC-DC9F-4F76-A864-063C6B649348}.Debug|x86.ActiveCfg = Debug|x86
+		{3CE048FC-DC9F-4F76-A864-063C6B649348}.Debug|x86.Build.0 = Debug|x86
+		{3CE048FC-DC9F-4F76-A864-063C6B649348}.Release|x86.ActiveCfg = Release|x86
+		{3CE048FC-DC9F-4F76-A864-063C6B649348}.Release|x86.Build.0 = Release|x86
+		{A6738AAD-F81D-4D29-AD6A-D966219D2671}.Debug|x86.ActiveCfg = Debug
+		{A6738AAD-F81D-4D29-AD6A-D966219D2671}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

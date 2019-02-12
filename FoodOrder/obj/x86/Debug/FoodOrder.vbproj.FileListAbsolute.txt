@@ -1,0 +1,10 @@
+D:\FoodOrder\FoodOrder\FoodOrder\bin\Debug\FoodOrder.pdb
+D:\FoodOrder\FoodOrder\FoodOrder\bin\Debug\FoodOrder.xml
+D:\FoodOrder\FoodOrder\FoodOrder\obj\x86\Debug\FoodOrder.FoodOrder_Frm.resources
+D:\FoodOrder\FoodOrder\FoodOrder\obj\x86\Debug\FoodOrder.Resources.resources
+D:\FoodOrder\FoodOrder\FoodOrder\obj\x86\Debug\FoodOrder.vbproj.GenerateResource.Cache
+D:\FoodOrder\FoodOrder\FoodOrder\obj\x86\Debug\FoodOrder.xml
+D:\FoodOrder\FoodOrder\FoodOrder\obj\x86\Debug\FoodOrder.pdb
+D:\FoodOrder\FoodOrder\FoodOrder\obj\x86\Debug\FoodOrder.Form1.resources
+D:\FoodOrder\FoodOrder\FoodOrder\bin\Debug\FoodOrder.exe
+D:\FoodOrder\FoodOrder\FoodOrder\obj\x86\Debug\FoodOrder.exe
